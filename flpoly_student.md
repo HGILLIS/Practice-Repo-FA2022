@@ -1,6 +1,6 @@
 ## Henry Gillis
 
-### Gall 2023
+### Fall 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
