@@ -1,27 +1,31 @@
-## Student Name (or name you would preferred to be called)
+## Henry Gillis
 
-### Spring 2023
+### Gall 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to data science
 
-- Course 2
+- Micro Econ
 
-- Course 3
+- Physics 2
 
-- Course 4
+- Physics 2 lab
+
+- Database 1
+
+- Discrete math
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Disc Golf
 
-- Thing 2
+- F1
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Coolinig as shown in this website <https://links.hgillis.com/favorite-recipes>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
