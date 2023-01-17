@@ -24,7 +24,7 @@ I am _passionate about_:
 
 - F1
 
-- Coolinig as shown in this website <https://links.hgillis.com/favorite-recipes>
+- Cooking as shown in this website <https://links.hgillis.com/favorite-recipes>
 
 ***
 
