@@ -24,7 +24,7 @@ I am _passionate about_:
 
 - F1
 
-- Cooking as shown in this website <https://links.hgillis.com/favorite-recipes>
+- Cooking , checkout some of my favorite recipes <https://links.hgillis.com/favorite-recipes>
 
 ***
 
